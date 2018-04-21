@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <authorizeUrl>https://page-business-3873-dev-ed.cs11.my.salesforce.com/services/oauth2/authorize</authorizeUrl>
+    <consumerKey>3MVG9GiqKapCZBwEqRPTpXro7EVFRA.9mks60fi6oU8LkP0Am89g7upAEqT2q6u6bdYrRlMtSscaxdlQz18Mv</consumerKey>
+    <consumerSecret>ix4NB6ozHi0ESS5iHQZBjOkbzAGaz8TF</consumerSecret>
+    <defaultScopes>refresh_token full</defaultScopes>
+    <friendlyName>TargetOrg</friendlyName>
+    <includeOrgIdInIdentifier>true</includeOrgIdInIdentifier>
+    <providerType>Salesforce</providerType>
+    <sendAccessTokenInHeader>false</sendAccessTokenInHeader>
+    <sendClientCredentialsInHeader>false</sendClientCredentialsInHeader>
+    <tokenUrl>https://page-business-3873-dev-ed.cs11.my.salesforce.com/services/oauth2/token</tokenUrl>
+</AuthProvider>
